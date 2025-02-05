@@ -1,2 +1,6 @@
 # sample_code
 Provide a few example codes for data retrieval, and model scoring. 
+- sql_code_example.sql is for data pull and table join. 
+- model_score.py is an example to scoring data with trained model.
+- pull_data_in_Jason.ipynb is an example of pulling multiple Jason files and convert them into a single tabular dataframe.
+
